@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProcess">
+        <attr name="outerCircleColor" format="color"/>
+        <attr name="outerCiecleDivideHeight" format="integer"/>
+        <attr name="outerCircleRadius" format="integer"/>
+        <attr name="innerCircleColor" format="color"/>
+        <attr name="innerCircleDivideHeight" format="integer"/>
+        <attr name="innerCircleRadius" format="integer"/>
+    </declare-styleable>
+</resources>
